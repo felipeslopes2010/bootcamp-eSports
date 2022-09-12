@@ -3,8 +3,10 @@
 </h1> 
 <br>
 <div align="center">
- <img src="https://imgur.com/a/eTwoLui" />
- ![alt text](https://imgur.com/a/eTwoLui)
+ 
+![630d2251fd7c6c8ef1d1df14_OG-nlw-esports](https://user-images.githubusercontent.com/60726674/189569597-2d2923bc-5d65-43b6-b052-2fd3844edf24.jpg)
+ 
+ </img>
 </div>
 <br>
 <br>
