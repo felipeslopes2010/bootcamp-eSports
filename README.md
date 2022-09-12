@@ -4,7 +4,7 @@
 <br>
 <div align="center">
  <img src="https://s.imgur.com/min/embed.js" />
- <a href="//imgur.com/a/eTwoLui">
+ <a href="//imgur.com/a/eTwoLui" />
 </div>
 <br>
 <br>
