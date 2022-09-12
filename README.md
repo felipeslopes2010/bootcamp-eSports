@@ -3,7 +3,7 @@
 </h1> 
 <br>
 <div align="center">
- <img src="https://imgur.com/a/eTwoLui"/>
+ <img src="https://imgur.com/nuMKS2e"/>
 </div>
 <br>
 <br>
