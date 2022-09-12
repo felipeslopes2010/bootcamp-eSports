@@ -3,7 +3,8 @@
 </h1> 
 <br>
 <div align="center">
- <img href="https://imgur.com/a/eTwoLui" />
+ <img src="https://imgur.com/a/eTwoLui" />
+ ![alt text](https://imgur.com/a/eTwoLui)
 </div>
 <br>
 <br>
