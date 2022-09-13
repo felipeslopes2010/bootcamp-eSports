@@ -16,8 +16,8 @@
 - O projeto tem como base uma API Restful para encontrar um Duo para jogar online.
 - O projeto utiliza tecnologias como React para o Front End, NodeJS para o Back End e Reactive Native para aplicações Mobile.
 - Requisições Restful utilizando Hoppscotch.
-- Integração Mobile por meio do app Expo Go (Android_
-- Adicionado a API integração com jogos no site https://www.twitch.tv/.
+- Integração Mobile por meio do app Expo Go (Android)
+- Adicionado a API integração com jogos no Site https://www.twitch.tv/.
 
 ### Tecnologias Utilizadas
 
