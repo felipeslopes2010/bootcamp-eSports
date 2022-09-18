@@ -26,3 +26,5 @@
 - React Native
 - Hoppscotch
 - Expo Go
+- Prisma ORM
+- SQLite
