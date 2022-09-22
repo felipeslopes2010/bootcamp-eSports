@@ -10,7 +10,7 @@ export const styles = StyleSheet.create({
     height: 320,
     justifyContent: 'flex-end',
     borderRadius: 8,
-    overflow:'hidden'
+    overflow: 'hidden'
   },
   footer: {
     width: '100%',
