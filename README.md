@@ -17,7 +17,7 @@
 - O projeto utiliza tecnologias como React para o Front End, NodeJS para o Back End e Reactive Native para aplicações Mobile.
 - Requisições Restful utilizando Hoppscotch.
 - Integração Mobile por meio do app Expo Go (Android)
-- Adicionado a API integração com jogos no Site https://www.twitch.tv/.
+- Adicionado a API integração com jogos no Backend.
 
 ### Tecnologias Utilizadas
 
@@ -28,3 +28,4 @@
 - Expo Go
 - Prisma ORM
 - SQLite
+- Tailwind CSS
